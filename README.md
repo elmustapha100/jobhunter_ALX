@@ -261,6 +261,4 @@ This project is part of the AI Lagos x ALX open workshop initiative. Feel free t
 
 ---
 
-**Built with ❤️ for learning AI Agent development**
 
-*Last Updated: May 2026*

@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+state.json
+uploads/
+*.pdf
+.DS_Store
+.env
